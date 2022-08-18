@@ -87,7 +87,7 @@ class TodoApp extends React.Component {
 
     render() {
         const app = {
-            title: "SHOPPİNG LİST",
+            title: "SHOPPING LIST",
             description: "Reminder",
         }
         return (
