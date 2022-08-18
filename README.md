@@ -1,7 +1,7 @@
 # ShoppingList-app
-///buraya proje video yada gif gelecek
 
 
+![shopgif](https://github.com/semanurcancan/Shopping-List-app/raw/master/shopping-list.gif)
 
 
 # Shopping List App
