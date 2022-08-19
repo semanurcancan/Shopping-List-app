@@ -91,7 +91,7 @@ class TodoApp extends React.Component {
             description: "Reminder",
         }
         return (
-            <div className=" grid justify-items-center font-dancing sm:grid grid-flow-row md:grid-flow-col  md:py-24 ">
+            <div className=" grid justify-items-center font-dancing m-24 sm:grid grid-flow-row md:grid-flow-col  md:py-24 ">
                 <div className="max-w-sm text-center  bg-pink-bej rounded-r-3xl rounded-3xl drop-shadow-4xl  px-24 py-5  m-7  ">
                     <div>
                         <Header title={app.title} description={app.description} />
