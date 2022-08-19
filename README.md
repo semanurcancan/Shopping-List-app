@@ -5,7 +5,7 @@
 
 
 # Shopping List App
-- This application is written using React and Tailwind.
+- This application is written using React and Tailwind and designed responsively.
 - Users can use this app to make shopping list.
 - Users can add or delete new elements to the list with this application.
 - They can also add items they receive frequently to the favorites list and add the item from the favorites list to the shopping list.
