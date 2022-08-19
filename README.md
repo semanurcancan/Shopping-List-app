@@ -25,7 +25,7 @@ node js
 
 
 
-## Proje linki
+## Project link
 [SHOPPING APP](https://shopping-list-app-lilac.vercel.app/)
 
 
