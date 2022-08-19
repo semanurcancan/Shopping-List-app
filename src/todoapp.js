@@ -108,7 +108,7 @@ class TodoApp extends React.Component {
                     </div>
                 </div>
 
-                <div className=" text-center self-center text-3xl  m-0.5 p-0.5">
+                <div className=" mt-10 md:mt-48 text-3xl  m-0.5 p-0.5">
                     <h1 className="font-bold">Shopping List</h1>
                     <h4 className="italic font-normal">Powered By Javascript, React, Tailwind</h4>
                     <br></br>
