@@ -26,7 +26,7 @@ node js
 
 
 ## Project link
-[SHOPPING APP](https://xox-game-nu.vercel.app/)
+[SHOPPING APP](https://shopping-list-app-lilac.vercel.app/)
 
 
 
